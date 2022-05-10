@@ -11,3 +11,5 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2744416557
 
 Plugin by Thijs
 </pre>
+
+<img src="green_therapy.gif" data-canonical-src="green_therapy.gif" width="400" height="200" />
