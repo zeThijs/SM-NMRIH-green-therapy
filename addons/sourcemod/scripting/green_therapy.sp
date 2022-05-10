@@ -7,7 +7,6 @@
 #include <sourcemod>
 #include <sdktools>
 #include <weaponmodels>
-// #include "config.sp"
 
 #define PLUGIN_VERSION "1.0"
 #define PLUGIN_NAME "Green Therapy"
@@ -16,7 +15,6 @@
 #define geneinject      "genetherapy_inject_01.wav"
 #define genecapremove   "genetherapy_cap_remove_01.wav"
 #define genetune        "melodyofdarkness.mp3"
-
 
 //overwrites
 char inject[128] = "toke/genetherapy_cap_remove_01.wav";
